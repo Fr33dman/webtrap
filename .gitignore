@@ -1,0 +1,6 @@
+venv
+static
+templates
+__pycache__
+.idea
+log.txt
