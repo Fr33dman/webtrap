@@ -1,8 +1,8 @@
 # Webtrap test
 
-##Setup
+## Setup
 ```pip install flask```
-##Run
+## Run
 ```python app.py PORT=****```
-##Tests
+## Tests
 ```python test.py```
